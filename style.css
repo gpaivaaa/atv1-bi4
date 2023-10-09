@@ -1,0 +1,38 @@
+.corolla{
+    border: 1rem solid blue;
+    width: 18rem;
+    height: 10rem;
+    margin: 5rem;
+    padding: 3rem;
+    text-align: center;
+
+}
+
+.sw4{
+    border: 2rem solid rgb(255, 0, 0);
+    width: 19rem;
+    height: 11rem;
+    margin: 6rem;
+    padding: 4rem;
+    text-align: center;
+
+}
+
+.camry{
+    border: 3rem solid rgb(21, 255, 0);
+    width: 17rem;
+    height: 13rem;
+    margin: 9rem;
+    padding: 32px;
+    text-align: center;
+}
+
+
+.hilux{
+    border: 15px solid rgb(255, 230, 0);
+    width: 16rem;
+    height: 12rem;
+    margin: 9rem;
+    padding: 33px;
+    text-align: center;
+}
